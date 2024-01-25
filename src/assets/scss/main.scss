@@ -1,0 +1,25 @@
+@import './reset.scss';
+
+
+$orange: #FF9B04;
+$black: #0C141B;
+$white: #FFFFFF;   
+$orange-light: #FFD699;
+$gray: #BABAC0;
+$gray-light: #DEDEDE;
+$gray-s-light: #F5F5F5;
+
+
+
+
+* {
+    color: $black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Barlow', sans-serif; 
+ }
+
+ .container{ 
+   max-width: 1260px;
+   margin: 0 auto;
+ } 

@@ -12,6 +12,11 @@ dist
 dist-ssr
 *.local
 
+# git add .
+# git commit -m “ ”
+# git push origin master
+
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
