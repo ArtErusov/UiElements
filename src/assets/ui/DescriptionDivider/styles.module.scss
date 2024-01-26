@@ -1,1 +1,22 @@
 @import '../../scss/main.scss';
+
+.div{
+    display: flex;
+    background-color: $gray;
+    justify-content: center;
+    padding: 6px 0 ;
+
+    p{
+        color: $white;    
+    }    
+}
+.component{
+    width: 200px;
+}
+.adaptive{
+    width: 200px; 
+}
+
+.text{
+    width: 1000px;
+}

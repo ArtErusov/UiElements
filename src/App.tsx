@@ -1,5 +1,5 @@
 import { Fragment } from "react"
-import DescriptionDivider from "./assets/ui/DescriptionDivider/DescriptionDivider"
+import InteractiveElements from "./pages/InteractiveElements/InteractiveElements"
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
   <Fragment>
-    <DescriptionDivider title={'название hello world dddddddddddd'}/>
+    <InteractiveElements />
   </Fragment>
   )
 }
